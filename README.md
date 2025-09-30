@@ -123,7 +123,15 @@ npm start
 
 ## Screenshots
 
-![Slack Message Screenshot](./screenshots/slack_message.png)
+
+<img width="1590" height="710" alt="react + fast api demo" src="https://github.com/user-attachments/assets/c27ac4c2-f378-4ab0-9cb6-4063e3a982c1" />
+
+<img width="1589" height="706" alt="react + fast api 2" src="https://github.com/user-attachments/assets/cdfc95d3-43f6-4ef8-b61c-96c4c694ecce" />
+
+<img width="1588" height="719" alt="trigger error 1" src="https://github.com/user-attachments/assets/65b89c6a-5a6f-43e2-8169-a3c666898b90" />
+
+
+
 
 ---
 
